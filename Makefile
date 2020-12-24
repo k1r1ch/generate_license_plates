@@ -1,2 +1,2 @@
 test :
-	generate.py a123bc78
+	generate.py a123bc00
